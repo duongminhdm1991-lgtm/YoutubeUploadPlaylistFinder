@@ -12,3 +12,5 @@ Some channel like this "https://www.youtube.com/@trannhatphong" got error, you h
 Not guaranteed all YT channel work
 
 Vibe code using Gemini Pro 3.1 and Claude Opus 4.6 using Antigravity IDE
+
+ONLY USING FOR UPLOAD FOLDER, CANNOT FIND HIDDEN FOLDER OR SOMETHING ELSE
